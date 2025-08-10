@@ -1,8 +1,5 @@
 Project Title: Food Restaurant Store Website 🍔
 
-Description:
-This project is a modern, responsive static website for a fictional food restaurant. It's designed to showcase the restaurant's menu, ambiance, and contact information in a clean, user-friendly interface. The website is built to provide an excellent user experience on all devices, from desktops to mobile phones.
-
 Features:
 
 Responsive Design: The layout adjusts seamlessly to different screen sizes, ensuring accessibility and a great experience for all users.
