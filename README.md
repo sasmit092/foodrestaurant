@@ -1,4 +1,4 @@
-Project Title: Food Restaurant Store Website 🍔
+Food Restaurant Store Website 🍔
 
 Features:
 
